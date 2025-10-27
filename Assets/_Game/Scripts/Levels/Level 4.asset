@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c0c797ad4d791f44870df2ac225874e, type: 3}
+  m_Name: Level 4
+  m_EditorClassIdentifier: 
+  matrix:
+    x: 5
+    y: 5
+    m: 14050000230300000000000014050000bc0200002c010000c8000000c8000000f8010000f80100002c010000ca0000000000000000000000ca0000000000000023030000f40100000000000000000000e803000000000000f4010000e8030000bc020000
+  boardCount: 5
